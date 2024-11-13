@@ -74,9 +74,14 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 
 
 
-Mentor
+## My Project
 
-* Dr.R.Kayalvizhi  : kayalvir @srmist.edu.in
+### Mentor
+- Dr. R. Kayalvizhi
+  - Email: kayalvr@rsmist.edu.in
 
-Team Members
-
+### Team Members
+- B Krishna Sai Mani Kanta - [GitHub](https://github.com/krishnasaais)
+- G Bhargav Ram - [GitHub](https://github.com/bhargavrammmmmm)
+- Jaswanth Rapati - [GitHub](https://github.com/jaswanthrapati)
+- A Surya Siddardha - [GitHub](https://github.com/suryasiddardha)
