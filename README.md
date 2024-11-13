@@ -69,3 +69,14 @@ Database for this Electricity Billing System contains 5 Tables
 ->Bill Table (Meter Number, Month, Unit, Total bill, status)
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
+
+
+
+
+
+Mentor
+
+* Dr.R.Kayalvizhi  : kayalvir @srmist.edu.in
+
+Team Members
+
