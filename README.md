@@ -80,4 +80,25 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 - Dr. R. Kayalvizhi
   - Email: kayalvr@rsmist.edu.in
 
-### Team Members
+
+## Team Members
+
+- T. Venkata Dinesh Kumar  
+  - Roll No: RA2311030010046  
+  - Email: [tvdinesh@srmist.edu.in](mailto:tvdinesh@srmist.edu.in)
+
+- B Sai Abhinav  
+  - Roll No: RA2311030010044  
+  - Email: [sb0439@srmist.edu.in](mailto:sb0439@srmist.edu.in)
+
+- Rohit Muppalla  
+  - Roll No: RA2311030010043  
+  - Email: [rm4402@srmist.edu.in](mailto:rm4402@srmist.edu.in)
+
+- Karthick S  
+  - Roll No: RA2311030010027  
+  - Email: [ks3632@srmist.edu.in](mailto:ks3632@srmist.edu.in)
+
+- Jithun G  
+  - Roll No: RA2311030010021  
+  - Email: [jg4474@srmist.edu.in](mailto:jg4474@srmist.edu.in)
